@@ -17,8 +17,8 @@ cp -r . ~/.claude/skills/bilibili-downloader/
 ## Use
 
 ```bash
-python scripts/download_bilibili.py "https://www.bilibili.com/video/BV1Z4dPB1E8e"
-python scripts/download_bilibili.py BV1Z4dPB1E8e --output-dir ~/Movies
+python scripts/download_bilibili.py "https://www.bilibili.com/video/BVxxxxxxxxxx"
+python scripts/download_bilibili.py BVxxxxxxxxxx --output-dir ~/Movies
 ```
 
 Default output: `~/Downloads/bilibili_videos/`
