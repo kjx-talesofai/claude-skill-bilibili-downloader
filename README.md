@@ -5,8 +5,10 @@ Download Bilibili videos to local MP4. Pure Python, no GUI, no yt-dlp.
 ## Install
 
 ```bash
-cp -r . ~/.claude/skills/bilibili-downloader/
+npx skills add kjx-talesofai/claude-skill-bilibili-downloader -g -a cline
 ```
+
+Or copy it by hand into any agent's skills directory.
 
 ## Requirements
 
